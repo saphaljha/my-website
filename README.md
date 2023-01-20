@@ -5,6 +5,10 @@ Your project's description...
 - Preview: https://main--{repo}--{owner}.hlx.page/
 - Live: https://main--{repo}--{owner}.hlx.live/
 
+- Preview: https://main--my-website--saphaljha.hlx.page/
+- Live: https://main--my-website--saphaljha.hlx.live/
+
+
 ## Installation
 
 ```sh
